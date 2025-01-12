@@ -34,7 +34,7 @@ I love exploring deep learning, adversarial attacks, and autonomous driving simu
 | 2023.09.19        | 최우수상    | 충청남도지사상                | 충청남도                 |
 | 2023.12.02        | 우수논문상  | 한국인터넷진흥원 원장상       | 한국정보보호학회          |
 | 2024.06.20        | 우수논문상  | 한국전자통신연구원 원장상     | 한국정보보호학회           |
-| 2025.01.23        | 우수상      |우수상                       | 한국디스플레이산업협회장상   |
+| 2025.01.23        | 우수상      |한국디스플레이산업협회장상     | 한국디스플레이산업협회|
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lee-SeungYeol&show_icons=true&theme=radical)
