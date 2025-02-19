@@ -1,7 +1,7 @@
 # Hello there! 👋
 
 I'm a passionate AI developer and researcher. 🚀  
-I love exploring deep learning, adversarial attacks, and autonomous driving simulation.  
+I love exploring machine Learning, deep learning, and autonomous.  
 
 ## 🌟 Skills
 - **Programming Languages**: Python
