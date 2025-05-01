@@ -5,7 +5,7 @@ I love exploring machine Learning, deep learning, and autonomous.
 
 ## 🌟 Skills
 - **Programming Languages**: Python
-- **Frameworks**: PyTorch, TensorFlow
+- **Frameworks**: PyTorch, TensorFlow, C++
 
 
 ## 📚 논문 게재 내역 (Publications)
