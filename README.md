@@ -4,8 +4,8 @@ I'm a passionate AI developer and researcher. 🚀
 I love exploring machine Learning, deep learning, and autonomous.  
 
 ## 🌟 Skills
-- **Programming Languages**: Python
-- **Frameworks**: PyTorch, TensorFlow, C++
+- **Programming Languages**: Python, C++
+- **Frameworks**: PyTorch, TensorFlow
 
 
 ## 📚 논문 게재 내역 (Publications)
