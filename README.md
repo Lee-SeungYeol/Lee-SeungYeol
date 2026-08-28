@@ -31,8 +31,17 @@ I love exploring machine Learning, deep learning, and autonomous.
 | 2026.08.08        | 자격증      | AI프롬프트활용능력 1급        | KPC                     |
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lee-SeungYeol&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-SeungYeol&layout=compact&theme=radical)
+
+<!-- include_all_commits=true : 올해 커밋만 세던 기본값 대신 전체 커밋을 센다
+     count_private=true      : private 레포의 기여도 함께 집계한다 -->
+<a href="https://github.com/Lee-SeungYeol">
+  <img height="165" alt="GitHub Stats"
+       src="https://github-readme-stats.vercel.app/api?username=Lee-SeungYeol&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
+  <img height="165" alt="Top Languages"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-SeungYeol&layout=compact&theme=radical&count_private=true&hide_border=true&langs_count=8" />
+</a>
+
+![Streak](https://streak-stats.demolab.com?user=Lee-SeungYeol&theme=radical&hide_border=true)
 
 ## 🔗 Links
 - [Portfolio Website](#)
