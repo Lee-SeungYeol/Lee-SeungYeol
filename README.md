@@ -32,16 +32,30 @@ I love exploring machine Learning, deep learning, and autonomous.
 
 ## 📊 GitHub Stats
 
-<!-- include_all_commits=true : 올해 커밋만 세던 기본값 대신 전체 커밋을 센다
-     count_private=true      : private 레포의 기여도 함께 집계한다 -->
-<a href="https://github.com/Lee-SeungYeol">
-  <img height="165" alt="GitHub Stats"
-       src="https://github-readme-stats.vercel.app/api?username=Lee-SeungYeol&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
-  <img height="165" alt="Top Languages"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-SeungYeol&layout=compact&theme=radical&count_private=true&hide_border=true&langs_count=8" />
-</a>
+![Followers](https://img.shields.io/github/followers/Lee-SeungYeol?style=for-the-badge&color=ff69b4&labelColor=1a1b27)
+![Stars](https://img.shields.io/github/stars/Lee-SeungYeol?style=for-the-badge&color=ff69b4&labelColor=1a1b27)
 
 ![Streak](https://streak-stats.demolab.com?user=Lee-SeungYeol&theme=radical&hide_border=true)
+
+![Contributions](https://ghchart.rshah.org/ff69b4/Lee-SeungYeol)
+
+<!-- ─────────────────────────────────────────────────────────────
+     github-readme-stats.vercel.app 카드는 뺐다 (2026-08-29).
+
+     그 서비스가 503 으로 죽어 있어서 카드 자리가 깨진 이미지로 보였다.
+     파라미터 없는 기본 URL 도 503 이었으니 설정 문제가 아니라 서비스
+     장애다. 무료 Vercel 인스턴스라 자주 죽는다.
+
+     되살리고 싶으면 아래를 다시 넣는다. 단 같은 이유로 또 깨질 수 있다.
+     확실히 하려면 github-readme-stats 를 본인 Vercel 에 직접 배포해서
+     그 주소를 쓰면 된다.
+
+     ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lee-SeungYeol&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github)
+     ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-SeungYeol&layout=compact&theme=radical&count_private=true&hide_border=true&langs_count=8)
+
+     include_all_commits=true : 올해 커밋만 세던 기본값 대신 전체 커밋
+     count_private=true       : private 레포 기여도 함께 집계
+     ───────────────────────────────────────────────────────────── -->
 
 ## 🔗 Links
 - [Portfolio Website](#)
