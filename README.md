@@ -28,6 +28,7 @@ I love exploring machine Learning, deep learning, and autonomous.
 | 2023.12.02        | 우수논문상  | 한국인터넷진흥원 원장상       | 한국정보보호학회          |
 | 2024.06.20        | 우수논문상  | 한국전자통신연구원 원장상     | 한국정보보호학회           |
 | 2025.01.23        | 우수상      |한국디스플레이산업협회장상     | 한국디스플레이산업협회|
+| 2026.08.08        | 자격증      | AI프롬프트활용능력 1급        | KPC                     |
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lee-SeungYeol&show_icons=true&theme=radical)
